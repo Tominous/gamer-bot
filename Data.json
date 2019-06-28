@@ -1,0 +1,2525 @@
+{
+	"Trivia": {
+		"cities": [
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Afghanistan**?",
+					"Answers": ["kabul"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Albania**?",
+					"Answers": ["tirana"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Algeria**?",
+					"Answers": ["algiers"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Andorra**?",
+					"Answers": ["andorra la vella"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Angola**?",
+					"Answers": ["luanda"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Argentina**?",
+					"Answers": ["buenos aires"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Armenia**?",
+					"Answers": ["yerevan"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Australia**?",
+					"Answers": ["canberra"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Austria**?",
+					"Answers": ["vienna"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Azerbaijan**?",
+					"Answers": ["baku"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Bahamas, The**?",
+					"Answers": ["nassau"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Bahrain**?",
+					"Answers": ["manama"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Bangladesh**?",
+					"Answers": ["dhaka"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Barbados**?",
+					"Answers": ["bridgetown"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Belarus**?",
+					"Answers": ["minsk"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Belgium**?",
+					"Answers": ["brussels"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Belize**?",
+					"Answers": ["belmopan"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Bhutan**?",
+					"Answers": ["thimphu"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Bolivia**?",
+					"Answers": ["sucre"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Bosnia & Herzegovina**?",
+					"Answers": ["sarajevo"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Botswana**?",
+					"Answers": ["gaborone"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Brazil**?",
+					"Answers": ["brasilia"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Brunei**?",
+					"Answers": ["bandar seri begawan"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Bulgaria**?",
+					"Answers": ["sofia"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Burkina Faso**?",
+					"Answers": ["ouagadougou"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Burundi**?",
+					"Answers": ["bujumbura"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Cabo Verde**?",
+					"Answers": ["praia"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Cambodia**?",
+					"Answers": ["phnom penh"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Cameroon**?",
+					"Answers": ["yaounde"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Canada**?",
+					"Answers": ["ottawa"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Central African Republic**?",
+					"Answers": ["bangui"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Chile**?",
+					"Answers": ["santiago"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **China**?",
+					"Answers": ["beijing"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Comoros**?",
+					"Answers": ["moroni"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Congo, Democratic Republic Of The**?",
+					"Answers": ["kinshasa"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Costa Rica**?",
+					"Answers": ["san jose"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Côte D'Ivoire**?",
+					"Answers": ["yamoussoukro"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Croatia**?",
+					"Answers": ["zagreb"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Cuba**?",
+					"Answers": ["havana"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Cyprus**?",
+					"Answers": ["nicosia"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Czech Republic**?",
+					"Answers": ["prague"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Denmark**?",
+					"Answers": ["copenhagen"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Dominica**?",
+					"Answers": ["roseau"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Dominican Republic**?",
+					"Answers": ["santo domingo"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Ecuador**?",
+					"Answers": ["quito"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Egypt**?",
+					"Answers": ["cairo"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **El Salvador**?",
+					"Answers": ["san salvador"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Equatorial Guinea**?",
+					"Answers": ["malabo"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Eritrea**?",
+					"Answers": ["asmara"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Estonia**?",
+					"Answers": ["tallinn"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Eswatini**?",
+					"Answers": ["mbabane"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Ethiopia**?",
+					"Answers": ["addis ababa"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Federated States Of Micronesia**?",
+					"Answers": ["palikir"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Fiji**?",
+					"Answers": ["suva"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Finland**?",
+					"Answers": ["helsinki"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **France**?",
+					"Answers": ["paris"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Gabon**?",
+					"Answers": ["libreville"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Gambia, The**?",
+					"Answers": ["banjul"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Georgia**?",
+					"Answers": ["tbilisi"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Germany**?",
+					"Answers": ["berlin"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Ghana**?",
+					"Answers": ["accra"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Greece**?",
+					"Answers": ["athens"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Guatemala**?",
+					"Answers": ["guatemala city"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Guinea**?",
+					"Answers": ["conakry"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Guinea-Bissau**?",
+					"Answers": ["bissau"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Guyana**?",
+					"Answers": ["georgetown"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Honduras**?",
+					"Answers": ["tegucigalpa"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Hungary**?",
+					"Answers": ["budapest"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Iceland**?",
+					"Answers": ["reykjavik"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **India**?",
+					"Answers": ["new delhi"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Indonesia**?",
+					"Answers": ["jakarta"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Iran**?",
+					"Answers": ["tehran"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Iraq**?",
+					"Answers": ["baghdad"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Ireland**?",
+					"Answers": ["dublin"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Italy**?",
+					"Answers": ["rome"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Jamaica**?",
+					"Answers": ["kingston"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Japan**?",
+					"Answers": ["tokyo"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Jordan**?",
+					"Answers": ["amman"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Kazakhstan**?",
+					"Answers": ["astana"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Kenya**?",
+					"Answers": ["nairobi"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Kiribati**?",
+					"Answers": ["south tarawa"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Kosovo**?",
+					"Answers": ["pristina"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Kuwait**?",
+					"Answers": ["kuwait city"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Kyrgyzstan**?",
+					"Answers": ["bishkek"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Laos**?",
+					"Answers": ["vientiane"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Latvia**?",
+					"Answers": ["riga"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Lebanon**?",
+					"Answers": ["beirut"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Lesotho**?",
+					"Answers": ["maseru"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Liberia**?",
+					"Answers": ["monrovia"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Libya**?",
+					"Answers": ["tripoli"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Liechtenstein**?",
+					"Answers": ["vaduz"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Lithuania**?",
+					"Answers": ["vilnius"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Luxembourg**?",
+					"Answers": ["luxembourg"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Madagascar**?",
+					"Answers": ["antananarivo"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Malawi**?",
+					"Answers": ["lilongwe"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Malaysia**?",
+					"Answers": ["kuala lumpur"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Maldives**?",
+					"Answers": ["male"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Mali**?",
+					"Answers": ["bamako"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Malta**?",
+					"Answers": ["valletta"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Marshall Islands**?",
+					"Answers": ["majuro"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Mauritania**?",
+					"Answers": ["nouakchott"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Mauritius**?",
+					"Answers": ["port louis"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Mexico**?",
+					"Answers": ["mexico city"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Moldova**?",
+					"Answers": ["chisinau"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Monaco**?",
+					"Answers": ["monaco"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Mongolia**?",
+					"Answers": ["ulaanbaatar"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Montenegro**?",
+					"Answers": ["podgorica"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Morocco**?",
+					"Answers": ["rabat"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Mozambique**?",
+					"Answers": ["maputo"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Myanmar**?",
+					"Answers": ["nay pyi taw"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Namibia**?",
+					"Answers": ["windhoek"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Nauru**?",
+					"Answers": ["yaren district"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Nepal**?",
+					"Answers": ["kathmandu"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Netherlands**?",
+					"Answers": ["amsterdam"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **New Zealand**?",
+					"Answers": ["wellington"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Nicaragua**?",
+					"Answers": ["managua"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Niger**?",
+					"Answers": ["niamey"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Nigeria**?",
+					"Answers": ["abuja"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **North Korea**?",
+					"Answers": ["pyongyang"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **North Macedonia**?",
+					"Answers": ["skopje"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Norway**?",
+					"Answers": ["oslo"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Oman**?",
+					"Answers": ["muscat"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Pakistan**?",
+					"Answers": ["islamabad"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Palau**?",
+					"Answers": ["ngerulmud"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Panama**?",
+					"Answers": ["panama city"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Papua New Guinea**?",
+					"Answers": ["port moresby"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Peru**?",
+					"Answers": ["lima"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Philippines**?",
+					"Answers": ["manila"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Poland**?",
+					"Answers": ["warsaw"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Portugal**?",
+					"Answers": ["lisbon"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Qatar**?",
+					"Answers": ["doha"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Republic Of The Congo**?",
+					"Answers": ["brazzaville"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Romania**?",
+					"Answers": ["bucharest"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Russia**?",
+					"Answers": ["moscow"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Rwanda**?",
+					"Answers": ["kigali"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Saint Kitts & Nevis**?",
+					"Answers": ["basseterre"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Saint Lucia**?",
+					"Answers": ["castries"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Saint Vincent & The Grenadines**?",
+					"Answers": ["kingstown"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Samoa**?",
+					"Answers": ["apia"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **San Marino**?",
+					"Answers": ["san marino"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Saudi Arabia**?",
+					"Answers": ["riyadh"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Senegal**?",
+					"Answers": ["dakar"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Serbia**?",
+					"Answers": ["belgrade"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Seychelles**?",
+					"Answers": ["victoria"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Sierra Leone**?",
+					"Answers": ["freetown"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Singapore**?",
+					"Answers": ["singapore"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Slovakia**?",
+					"Answers": ["bratislava"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Slovenia**?",
+					"Answers": ["ljubljana"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Solomon Islands**?",
+					"Answers": ["honiara"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Somalia**?",
+					"Answers": ["mogadishu"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **South Korea**?",
+					"Answers": ["seoul"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **South Sudan**?",
+					"Answers": ["juba"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Spain**?",
+					"Answers": ["madrid"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Sudan**?",
+					"Answers": ["khartoum"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Suriname**?",
+					"Answers": ["paramaribo"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Sweden**?",
+					"Answers": ["stockholm"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Switzerland**?",
+					"Answers": ["bern"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Syria**?",
+					"Answers": ["damascus"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Tajikistan**?",
+					"Answers": ["dushanbe"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Tanzania**?",
+					"Answers": ["dodoma"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Thailand**?",
+					"Answers": ["bangkok"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Timor-Leste**?",
+					"Answers": ["dili"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Trinidad & Tobago**?",
+					"Answers": ["port of spain"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Tunisia**?",
+					"Answers": ["tunis"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Turkey**?",
+					"Answers": ["ankara"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Turkmenistan**?",
+					"Answers": ["ashgabat"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Tuvalu**?",
+					"Answers": ["funafuti"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Uganda**?",
+					"Answers": ["kampala"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Ukraine**?",
+					"Answers": ["kiev"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **United Arab Emirates**?",
+					"Answers": ["abu dhabi"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **United Kingdom**?",
+					"Answers": ["london"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Uruguay**?",
+					"Answers": ["montevideo"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Uzbekistan**?",
+					"Answers": ["tashkent"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Vanuatu**?",
+					"Answers": ["port vila"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Vatican City**?",
+					"Answers": ["vatican city"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Venezuela**?",
+					"Answers": ["caracas"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Vietnam**?",
+					"Answers": ["hanoi"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Zambia**?",
+					"Answers": ["lusaka"]
+				}
+			},
+			{
+				"Type": "Text",
+				"Question": {
+					"Title": "What is the capital city of **Zimbabwe**?",
+					"Answers": ["harare"]
+				}
+			}
+		],
+		"flags": [
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Afghanistan.png",
+                                    "Answers": ["afghanistan"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Albania.png",
+                                    "Answers": ["albania"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Algeria.png",
+                                    "Answers": ["algeria"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Angola.png",
+                                    "Answers": ["angola"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Argentina.png",
+                                    "Answers": ["argentina"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Australia.png",
+                                    "Answers": ["australia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Austria.png",
+                                    "Answers": ["austria"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Azerbaijan.png",
+                                    "Answers": ["azerbaijan"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Bahrain.png",
+                                    "Answers": ["bahrain"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Bangladesh.png",
+                                    "Answers": ["bangladesh"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Belarus.png",
+                                    "Answers": ["belarus"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Belgium.png",
+                                    "Answers": ["belgium"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Benin.png",
+                                    "Answers": ["benin"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Bolivia.png",
+                                    "Answers": ["bolivia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Bosnia and Herzegovina.png",
+                                    "Answers": ["bosnia and herzegovina"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Botswana.png",
+                                    "Answers": ["botswana"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Brazil.png",
+                                    "Answers": ["brazil"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Bulgaria.png",
+                                    "Answers": ["bulgaria"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Burkina Faso.png",
+                                    "Answers": ["burkina faso"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Burundi.png",
+                                    "Answers": ["burundi"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Cambodia.png",
+                                    "Answers": ["cambodia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Cameroon.png",
+                                    "Answers": ["cameroon"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Canada.png",
+                                    "Answers": ["canada"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Central African Republic.png",
+                                    "Answers": ["central african republic"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Chad.png",
+                                    "Answers": ["chad"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Chile.png",
+                                    "Answers": ["chile"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/China.png",
+                                    "Answers": ["china"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Columbia.png",
+                                    "Answers": ["columbia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Congo.png",
+                                    "Answers": ["congo"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Costa Rica.png",
+                                    "Answers": ["costa rica"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Croatia.png",
+                                    "Answers": ["croatia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Cuba.png",
+                                    "Answers": ["cuba"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Cyprus.png",
+                                    "Answers": ["cyprus"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Czech Republic.png",
+                                    "Answers": ["czech republic"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Democratic Republic of the Congo.png",
+                                    "Answers": ["democratic republic of the congo"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Denmark.png",
+                                    "Answers": ["denmark"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Djibouti.png",
+                                    "Answers": ["djibouti"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Dominican Republic.png",
+                                    "Answers": ["dominican republic"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/East Timor.png",
+                                    "Answers": ["east timor"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Ecuador.png",
+                                    "Answers": ["ecuador"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Egypt.png",
+                                    "Answers": ["egypt"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/El Salvador.png",
+                                    "Answers": ["el salvador"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Equatorial Guinea.png",
+                                    "Answers": ["equatorial guinea"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Eritrea.png",
+                                    "Answers": ["eritrea"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Estonia.png",
+                                    "Answers": ["estonia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Ethiopia.png",
+                                    "Answers": ["ethiopia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Fiji.png",
+                                    "Answers": ["fiji"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Finland.png",
+                                    "Answers": ["finland"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/France.png",
+                                    "Answers": ["france"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Gabon.png",
+                                    "Answers": ["gabon"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Gambia.png",
+                                    "Answers": ["gambia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Georgia.png",
+                                    "Answers": ["georgia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Germany.png",
+                                    "Answers": ["germany"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Ghana.png",
+                                    "Answers": ["ghana"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Greece.png",
+                                    "Answers": ["greece"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Guatemala.png",
+                                    "Answers": ["guatemala"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Guinea-Bissau.png",
+                                    "Answers": ["guinea-bissau"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Guinea.png",
+                                    "Answers": ["guinea"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Haiti.png",
+                                    "Answers": ["haiti"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Honduras.png",
+                                    "Answers": ["honduras"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Hong Kong.png",
+                                    "Answers": ["hong kong"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Hungary.png",
+                                    "Answers": ["hungary"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Iceland.png",
+                                    "Answers": ["iceland"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/India.png",
+                                    "Answers": ["india"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Indonesia.png",
+                                    "Answers": ["indonesia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Iran.png",
+                                    "Answers": ["iran"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Iraq.png",
+                                    "Answers": ["iraq"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Ireland.png",
+                                    "Answers": ["ireland"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Israel.png",
+                                    "Answers": ["israel"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Italy.png",
+                                    "Answers": ["italy"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Ivory Coast.png",
+                                    "Answers": ["ivory coast"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Jamaica.png",
+                                    "Answers": ["jamaica"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Japan.png",
+                                    "Answers": ["japan"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Jordan.png",
+                                    "Answers": ["jordan"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Kazakhstan.png",
+                                    "Answers": ["kazakhstan"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Kenya.png",
+                                    "Answers": ["kenya"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Kuwait.png",
+                                    "Answers": ["kuwait"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Kyrgyzstan.png",
+                                    "Answers": ["kyrgyzstan"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Laos.png",
+                                    "Answers": ["laos"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Latvia.png",
+                                    "Answers": ["latvia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Lebanon.png",
+                                    "Answers": ["lebanon"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Lesotho.png",
+                                    "Answers": ["lesotho"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Liberia.png",
+                                    "Answers": ["liberia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Libya.png",
+                                    "Answers": ["libya"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Macedonia.png",
+                                    "Answers": ["macedonia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Madagascar.png",
+                                    "Answers": ["madagascar"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Malawi.png",
+                                    "Answers": ["malawi"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Malaysia.png",
+                                    "Answers": ["malaysia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Mali.png",
+                                    "Answers": ["mali"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Malta.png",
+                                    "Answers": ["malta"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Mauritania.png",
+                                    "Answers": ["mauritania"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Mauritius.png",
+                                    "Answers": ["mauritius"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Mexico.png",
+                                    "Answers": ["mexico"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Moldova.png",
+                                    "Answers": ["moldova"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Mongolia.png",
+                                    "Answers": ["mongolia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Morocco.png",
+                                    "Answers": ["morocco"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Mozambique.png",
+                                    "Answers": ["mozambique"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Myanmar.png",
+                                    "Answers": ["myanmar"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Namibia.png",
+                                    "Answers": ["namibia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Nepal.png",
+                                    "Answers": ["nepal"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Netherlands.png",
+                                    "Answers": ["netherlands"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/New Zealand.png",
+                                    "Answers": ["new zealand"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Nicaragua.png",
+                                    "Answers": ["nicaragua"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Niger.png",
+                                    "Answers": ["niger"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Nigeria.png",
+                                    "Answers": ["nigeria"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Norway.png",
+                                    "Answers": ["norway"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Pakistan.png",
+                                    "Answers": ["pakistan"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Palestine.png",
+                                    "Answers": ["palestine"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Panama.png",
+                                    "Answers": ["panama"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Papua New Guinea.png",
+                                    "Answers": ["papua new guinea"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Paraguay.png",
+                                    "Answers": ["paraguay"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Peru.png",
+                                    "Answers": ["peru"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Philippines.png",
+                                    "Answers": ["philippines"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Poland.png",
+                                    "Answers": ["poland"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Portugal.png",
+                                    "Answers": ["portugal"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Puerto Rico.png",
+                                    "Answers": ["puerto rico"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Qatar.png",
+                                    "Answers": ["qatar"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Romania.png",
+                                    "Answers": ["romania"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Russia.png",
+                                    "Answers": ["russia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Rwanda.png",
+                                    "Answers": ["rwanda"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Saudi Arabia.png",
+                                    "Answers": ["saudi arabia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Senegal.png",
+                                    "Answers": ["senegal"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Serbia.png",
+                                    "Answers": ["serbia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Sierra Leone.png",
+                                    "Answers": ["sierra leone"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Singapore.png",
+                                    "Answers": ["singapore"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Slovakia.png",
+                                    "Answers": ["slovakia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Slovenia.png",
+                                    "Answers": ["slovenia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Somalia.png",
+                                    "Answers": ["somalia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/South Africa.png",
+                                    "Answers": ["south africa"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/South Korea.png",
+                                    "Answers": ["south korea"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/South Sudan.png",
+                                    "Answers": ["south sudan"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Spain.png",
+                                    "Answers": ["spain"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Sri Lanka.png",
+                                    "Answers": ["sri lanka"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Sudan.png",
+                                    "Answers": ["sudan"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Swaziland.png",
+                                    "Answers": ["swaziland"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Sweden.png",
+                                    "Answers": ["sweden"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Switzerland.png",
+                                    "Answers": ["switzerland"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Taiwan.png",
+                                    "Answers": ["taiwan"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Tajikistan.png",
+                                    "Answers": ["tajikistan"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Tanzania.png",
+                                    "Answers": ["tanzania"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Thailand.png",
+                                    "Answers": ["thailand"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Togo.png",
+                                    "Answers": ["togo"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Trinidad and Tobago.png",
+                                    "Answers": ["trinidad and tobago"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Tunisia.png",
+                                    "Answers": ["tunisia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Turkey.png",
+                                    "Answers": ["turkey"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Turkmenistan.png",
+                                    "Answers": ["turkmenistan"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Uganda.png",
+                                    "Answers": ["uganda"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Ukraine.png",
+                                    "Answers": ["ukraine"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/United Arab Emirates.png",
+                                    "Answers": ["united arab emirates"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/United Kingdom.png",
+                                    "Answers": ["united kingdom", "great britain"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/United States.png",
+                                    "Answers": ["united states"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Uruguay.png",
+                                    "Answers": ["uruguay"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Uzbekistan.png",
+                                    "Answers": ["uzbekistan"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Venezuela.png",
+                                    "Answers": ["venezuela"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Vietnam.png",
+                                    "Answers": ["vietnam"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Yemen.png",
+                                    "Answers": ["yemen"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Zambia.png",
+                                    "Answers": ["zambia"]
+				}
+			},
+			{
+				"Type": "Image",
+				"Question": {
+				    "Title": "What country is this?",
+				    "Image": "https://raw.githubusercontent.com/JoshSCF/resized-country-flags/master/Zimbabwe.png",
+                                    "Answers": ["zimbabwe"]
+				}
+			}
+		]
+	}
+}

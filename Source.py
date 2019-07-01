@@ -20,7 +20,7 @@ GameList = {
 	"Guess the Code": "g:code",
 	"Hangman": "g:hangman",
 	"Minesweeper": "g:minesweeper",
-	#"Simon Says!": "g:simonsays", # unused because its bedtime zzzzzzzzzzz
+	"Simon Says!": "g:simonsays", # unused because its bedtime zzzzzzzzzzz
 	"Rock, Paper, Scissors!": "g:rps",
 	"Tic-Tac-Toe": "g:tictactoe",
 	"Trivia": "g:trivia"
@@ -194,7 +194,7 @@ Game starting in:""" + Digits[i] + AllDigit,
 			if GamesInPlay[ID]["Value"] == GetNumberFromEmoji(Reaction.emoji):
 				if User not in GamesInPlay[ID]["Responses"].keys():
 					0
-					#GamesInPlay[ID]["Responses"][User] = 
+					GamesInPlay[ID]["Responses"][User] = 
 
 async def Countdown(message, Channel, Word):
 	async def GenerateWord(Word):
@@ -1354,7 +1354,7 @@ Commands = {
 	"hangman": Hangman,
 	"minesweeper": Minesweeper,
 	"countdown": Countdown,
-	#"simonsays": SimonSays
+	"simonsays": SimonSays
 }
 
 @client.event
